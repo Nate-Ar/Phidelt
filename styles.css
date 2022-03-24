@@ -24,3 +24,7 @@ h2{
     outline: azure 5px solid;
     width: 20%;
 }
+p{
+    position: fixed;
+    bottom: 0;
+}
